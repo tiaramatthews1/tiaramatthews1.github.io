@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Tech Journey"
-date:       2019-08-01 19:48:29 +0000
+title:      "Journey into Tech "
+date:       2019-08-01 15:48:30 -0400
 permalink:  my_tech_journey
 ---
 
