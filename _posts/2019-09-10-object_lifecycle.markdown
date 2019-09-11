@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Object Lifecycle"
-date:       2019-09-11 01:08:50 +0000
+date:       2019-09-10 21:08:51 -0400
 permalink:  object_lifecycle
 ---
 
